@@ -1,7 +1,10 @@
 // aqua.cpp
 // This code is part of NH3H2O_PROPS.
-// Copyright 2014 Nicholas W Fette.
+// Copyright 2015 Nicholas W Fette.
 // Please refer to doi:10.1063/1.556015
+// Tillner-Roth, R., & Friend, D. G. (1998). A Helmholtz free energy
+// formulation of the thermodynamic properties of the mixture {water+ ammonia}.
+// Journal of Physical and Chemical Reference Data, 27(1), 63-96.
 
 #include "aqua.h"
 #include <math.h>
